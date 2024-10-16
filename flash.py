@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 from flashh import TOKEN  # Import the TOKEN variable
 
-ADMIN_ID = 6535697915  # Your admin ID
+ADMIN_ID = 1808161060  # Your admin ID
 
 # Set up logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
